@@ -74,7 +74,7 @@
 
             $db['default'] = array(
                     'dsn'	=> '',
-                    'hostname' => 'localhost',                        
+                    'hostname' => 'sql311.epizy.com',                        
                     'dbdriver' => 'mysqli',
                     'dbprefix' => '',
                     'pconnect' => FALSE,
@@ -90,7 +90,7 @@
                     'failover' => array(),
                     'save_queries' => TRUE
             );
-            $db['default']['hostname'] = 'localhost';
-            $db['default']['username'] = 'root';
-            $db['default']['password'] = '';
-            $db['default']['database'] = 'multi';
+            $db['default']['hostname'] = 'sql311.epizy.com';
+            $db['default']['username'] = 'epiz_33459705';
+            $db['default']['password'] = 'hvZgW4p2guu7';
+            $db['default']['database'] = 'epiz_33459705_multicbt_db';
