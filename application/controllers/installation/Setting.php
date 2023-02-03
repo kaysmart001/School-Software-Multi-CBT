@@ -301,7 +301,7 @@ class Setting extends CI_Controller {
 
             $db[\'default\'] = array(
                     \'dsn\'	=> \'\',
-                    \'hostname\' => \'localhost\',                        
+                    \'hostname\' => \'sql311.epizy.com\',                        
                     \'dbdriver\' => \'mysqli\',
                     \'dbprefix\' => \'\',
                     \'pconnect\' => FALSE,
